@@ -1,0 +1,7 @@
+C:\GitHub\WinLect\Solution01\WinForm01\bin\Debug\WinForm01.exe
+C:\GitHub\WinLect\Solution01\WinForm01\bin\Debug\WinForm01.pdb
+C:\GitHub\WinLect\Solution01\WinForm01\obj\x86\Debug\WinForm01.Properties.Resources.resources
+C:\GitHub\WinLect\Solution01\WinForm01\obj\x86\Debug\WinForm01.csproj.GenerateResource.Cache
+C:\GitHub\WinLect\Solution01\WinForm01\obj\x86\Debug\WinForm01.exe
+C:\GitHub\WinLect\Solution01\WinForm01\obj\x86\Debug\WinForm01.pdb
+C:\GitHub\WinLect\Solution01\WinForm01\obj\x86\Debug\WinForm01.Form1.resources
