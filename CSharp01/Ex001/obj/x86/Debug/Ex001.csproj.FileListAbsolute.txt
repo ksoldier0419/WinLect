@@ -1,0 +1,4 @@
+C:\GitHub\WinLect\CSharp01\Ex001\bin\Debug\Ex001.exe
+C:\GitHub\WinLect\CSharp01\Ex001\bin\Debug\Ex001.pdb
+C:\GitHub\WinLect\CSharp01\Ex001\obj\x86\Debug\Ex001.exe
+C:\GitHub\WinLect\CSharp01\Ex001\obj\x86\Debug\Ex001.pdb
